@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rifkisyah 
-- 🌱 I’m currently learning Java Programming language
+- 🌱 I’m currently learning C++ Programming language
 
 <!---
 Rifkisyah/Rifkisyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
